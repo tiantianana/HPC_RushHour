@@ -1,0 +1,18 @@
+Thread 27 of 40
+Solution updated, size 10 
+Solution updated, size 9 
+---- shortest solution -----
+Move car 1 Up 
+Move car 0 Right 
+Move car 4 Left 
+Move car 2 Down 
+Move car 0 Right 
+Move car 0 Right 
+Move car 0 Right 
+Move car 0 Right 
+Move car 0 Right 
+
+Best Solution Size of task: 9
+
+Time taken to solve task with 40 threads: 0.049036 sec 
+
