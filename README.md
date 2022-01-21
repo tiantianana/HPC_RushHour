@@ -8,6 +8,7 @@ Challenge 2. Rush Hour
 2. cd to root directory
 ```
 cd RushHour
+cd C-02 RushHour
 ```
 3. Compile the code
 ```
